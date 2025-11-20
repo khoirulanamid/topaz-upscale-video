@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Byte-compiled / caches
+*.pyc
+
+# Output / binaries
+output/*.exe
+output/*.zip
+
+# Secrets
+license.dat
+api_keys.txt
+*.key
+*.env
